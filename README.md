@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- [Github repository]()
-- [Live site]()
+- [Github repository](https://github.com/nathannieg/frontendmentor-order-summary)
+- [Live site](https://nathannieg.github.io/frontendmentor-order-summary/)
 
 ### My process
 
